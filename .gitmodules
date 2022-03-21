@@ -1,0 +1,12 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/micronyks/mfe.git
+[submodule "auth"]
+	path = auth
+	url = https://github.com/micronyks/mfe.git
+[submodule "header"]
+	path = header
+	url = https://github.com/micronyks/mfe.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/micronyks/mfe.git
